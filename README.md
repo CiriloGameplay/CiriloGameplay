@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @CiriloGameplay
-- 👀 I’m interested in buy a car
-- 🌱 I’m currently learning english
-- 💞️ I’m looking to collaborate on
-- 📫 with a very money
-<!---
-CiriloGameplay/CiriloGameplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :wave: OLá
+Olá me chamo **Murilo de Lima**, eu estudo no *Duque de Caxias*
+
+Atualmente estou estudando PENSAMENTO COMPUTACIONAL, se você não conhece o que é [clique aqui](https://pt.wikipedia.org/wiki/Pensamento_computacional)
+
+E estou programando o
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+E um dos que ja estudei foi o 
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
